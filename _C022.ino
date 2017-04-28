@@ -11,7 +11,7 @@
  * V1.02
  - Remove ">210" core statement to comply (and function) with new standard 230 core as of R114, 24 September 2016
  * V1.03
- - Modified the plug in to work with ESPEasy 2.0 (Mega) also swith state is included again. 
+ - Modified the plug in to work with ESPEasy 2.0 (Mega) also switch state is included again. 
  /******************************************************************************/
 
 #define CPLUGIN_022
